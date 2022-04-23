@@ -1,0 +1,256 @@
+html {
+  text-align: center;
+}
+
+
+#body{
+  background-color: #000000;
+}
+
+#title nav {
+  padding: 15px 0x 0 0 ;
+}
+
+#title .nav-link {
+  font-family: "Poppins";
+  font-size:20px;
+  font-weight: 500;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.52;
+  letter-spacing: normal;
+  text-align: center;
+  color: #fff;
+  margin: 0 15 0 0px;
+  /* opacity: 50%; */
+}
+
+
+#resume .social-media-links {
+  /* display: flex; */
+  margin-top: 3rem;
+  width: 100%;
+  align-items: center;
+
+
+}
+
+#resume .fab {
+  color: #f3d4ff;
+    border-radius: 100px;
+    text-shadow:1px 2px #9700cf;
+}
+
+
+#resume {
+  padding-top: 20px;
+  text-align: center;
+  font-family: 'Sora';
+
+}
+
+/* .resume { */
+  /* font-family: "Poppins";
+  font-size: 30px;
+  font-weight: 500;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.52;
+  letter-spacing: normal; */
+  /* text-align: center;
+  color: #ffffff; */
+
+
+}
+
+/* #resume .btn-primary {
+  border-radius: 197px;
+  box-shadow: 0 5px 21px 0 rgba(227, 14, 213, 0.47);
+  background-color: #ff4070;
+  border-color: #ff4070;
+  padding: 10px 50px;
+
+
+} */
+
+#title .social-link {
+  color: black;
+}
+
+#title {
+  padding: 0 15% 0;
+}
+
+#title .h1-text-main {
+  /* margin-top: -10px; */
+  font-family: "Poppins";
+  font-size: 80px;
+  font-weight: 600;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.22;
+  letter-spacing: normal;
+  text-align: center;
+  color: #fff;
+  text-shadow: -4px 4px #ef3550,
+               -8px 8px #f48fb1,
+               -12px 12px #7e57c2,
+               -16px 16px #2196f3,
+               -20px 20px #26c6da,
+               -24px 24px #43a04700,
+               -28px 28px #eeff4100,
+               -32px 32px #f9a82500,
+               -36px 36px #ff572200;
+
+}
+
+
+#title .h1-text-normal {
+  font-family: "Sora";
+  font-size: 40px;
+  font-weight: 500;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.22;
+  letter-spacing: normal;
+  text-align: center;
+  color: #fff;
+
+
+}
+
+#title .h4-text-intro {
+  padding: 0 10rem;
+  margin: 3rem 0 1rem;
+  /* opacity: 0.7; */
+  font-family: "Sora";
+  font-size: 24px;
+  font-weight: 200;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.53;
+  letter-spacing: normal;
+  text-align: center;
+  color: #fff;
+}
+
+#title .h4-text {
+  padding-top: 18px;
+  opacity: 0.51;
+  font-family: "Poppins";
+  font-size: 20px;
+  font-weight: 600;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.53;
+  letter-spacing: normal;
+  text-align: left;
+  color: #000000;
+}
+
+#title .description{
+  padding-top: 40px;
+}
+
+#title .profile {
+  max-width: 400px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.fab2 {
+  padding: 0 5px;
+}
+
+
+#projects {
+  padding: 4% 14%;
+
+}
+
+#projects .container-fluid {
+  padding: 0;
+  max-width: 1366px;
+}
+
+#projects .h1-text {
+font-family: "Poppins";
+font-size: 40px;
+font-weight: 400;
+font-style: normal;
+font-stretch: normal;
+line-height: 1.63;
+letter-spacing: normal;
+text-align: left;
+color: #fff;
+margin-top: 20px;
+padding-bottom: 30px;
+
+}
+
+#projects .col-md-12 {
+  padding: 0;
+}
+
+#projects .project-div {
+  background-repeat: no-repeat;
+  background-size: auto;
+  background-position: top left;
+  z-index: 10;
+  -webkit-transition: all .3s ease;
+}
+
+#projects .project-images {
+  width: 450px;
+  max-width: 100%;
+  height: auto;
+  padding-bottom: 40px;
+  -webkit-ransition: all .3s ease;
+}
+
+
+#projects .case-img {
+  max-width: 100%;
+  height: auto;
+}
+
+#footer {
+text-align: center;
+}
+
+#footer .h1-text {
+  font-family: "Poppins";
+  font-size: 50px;
+  font-weight: bold;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.1;
+  letter-spacing: normal;
+  color: #000000;
+}
+
+#footer .h4-text {
+  opacity: 0.7;
+  font-family: "Poppins";
+  font-size: 23px;
+  font-weight: 600;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.15;
+  letter-spacing: normal;
+  color: #000000;
+  padding-bottom: 30px;
+}
+
+#footer .email {
+opacity: 0.7;
+font-family: "Poppins";
+font-size: 20px;
+font-weight: 600;
+font-style: normal;
+font-stretch: normal;
+line-height: 1.15;
+letter-spacing: normal;
+padding-bottom: 50px;
+}
